@@ -12,7 +12,7 @@
     {
       "name": "移动8m",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/refs/heads/main/live/YD8M.m3u",
+      "url": "https://raw.giteeusercontent.com/xuelong88/lives/raw/main/yd/YD8M.m3u",
       "playerType": 2,
       "ua": "okhttp/3.12.13",
       "logo": "https://cdn.jsdelivr.net/gh/xuelong876/channal_logo2@master/{name}.png",
